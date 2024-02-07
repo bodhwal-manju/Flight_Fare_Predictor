@@ -13,6 +13,7 @@ Training Data and Test(Unseen) data are provided in the Repository
 <h2>Project Screenshots:</h2>
 
 <img src="project_photos/WhatsApp Image 2024-02-07 at 17.31.47_c98e8628.jpg" alt="project-screenshot"/>
+<img src="project_photos/WhatsApp%20Image%202024-02-07%20at%2019.04.55_6935baeb.jpg">
 
 ## 🧐Project Various Step
 
