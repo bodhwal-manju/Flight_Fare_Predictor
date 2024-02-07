@@ -6,7 +6,7 @@
 This project aims to predict flight prices using machine learning techniques. The goal is to develop a model that can accurately forecast the price of flights based on various features such as departure time, airline, route, and other relevant factors.
 
 <h2>Dataset</h2>
-[https://github.com/bodhwal-manju/Flight_Fare_Predictor/blob/main/Data_Train%20(3).xlsx](https://github.com/bodhwal-manju/Flight_Fare_Predictor/blob/main/Data_Train%20(3).xlsx)
+Training Data and Test(Unseen) data are provided in the Repository
 
 <h2>🚀 Demo</h2>
 
