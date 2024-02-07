@@ -12,4 +12,46 @@
 <img src="project_photos/WhatsApp Image 2024-02-07 at 17.31.47_c98e8628.jpg" alt="project-screenshot"/>
 
 
+<h2>🛠️ Installation Steps:</h2>
 
+<p>1. Clone this repository</p>
+
+```
+https://github.com/bodhwal-manju/Flight_Fare_Predictor.git
+```
+
+<p>2. Navigate to the project directory:</p>
+
+```
+cd Flight_Fare_Predictor
+```
+
+<p>3. Create Virtual Environment(Using venv (Python 3 built-in module))</p>
+
+```
+python -m venv venv
+```
+
+<p>4. Activate the virtual environment(On Windows):</p>
+
+```
+venv\Scripts\activate
+```
+
+<p>5. Install Requirements</p>
+
+```
+pip install -r requirements.txt
+```
+
+<p>6. Run the Flight_Fare_Prediction.ipynb file to make the pickel file which stores the model</p>
+
+<p>7. Run the application.py file</p>
+
+```
+python application.py
+```
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
