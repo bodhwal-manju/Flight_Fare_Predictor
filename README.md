@@ -57,6 +57,34 @@ pip install -r requirements.txt
 python application.py
 ```
 
+## Project Various Step
+
+## Data Exploration
+I started exploring datasets using pandas, NumPy,matplotlib, pandas profiling and seaborn.
+
+## Model Selection
+Built many Models and out of that i have selected RandomForest Regressor.
+
+## Hyperparameter Optimization
+Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
+
+## Model Dump
+As per selected trained model is dumped to pickled format for app development
+
+## Model Accuracy 
+75.2%
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
