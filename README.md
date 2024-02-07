@@ -9,4 +9,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1YbFF2xsWvEbtq42j03QMjIvCp9mMu1ME/view?usp=drive_link" alt="project-screenshot" width="800" height="600/">
+<img src="project_photos/WhatsApp Image 2024-02-07 at 17.31.47_c98e8628.jpg" alt="project-screenshot" width="800" height="600/">
