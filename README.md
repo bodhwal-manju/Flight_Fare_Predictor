@@ -1,5 +1,5 @@
 
-<h1 align="center" id="title">Flight Fare Predictor</h1>
+<h1 align="center" id="title">Flight Price Predictor</h1>
 <h2>🤜Overview</h2>
 This project aims to predict flight prices using machine learning techniques. The goal is to develop a model that can accurately forecast the price of flights based on various features such as departure time, airline, route, and other relevant factors.
 
