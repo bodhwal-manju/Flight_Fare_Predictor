@@ -75,7 +75,15 @@ As per selected trained model is dumped to pickled format for app development
 75.2%
 
 
+<h2>💻 Built with</h2>
 
+Technologies used in the project:
+
+*   Machine Learning
+*   Flask
+*   Python
+*   HTML
+*   CSS
 
 
 
