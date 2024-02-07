@@ -1,6 +1,6 @@
 
 <h1 align="center" id="title">Flight Fare Predictor</h1>
-
+##Overview
 This project aims to predict flight prices using machine learning techniques. The goal is to develop a model that can accurately forecast the price of flights based on various features such as departure time, airline, route, and other relevant factors.
 
 <h2>Dataset</h2>
@@ -13,6 +13,34 @@ Training Data and Test(Unseen) data are provided in the Repository
 <h2>Project Screenshots:</h2>
 
 <img src="project_photos/WhatsApp Image 2024-02-07 at 17.31.47_c98e8628.jpg" alt="project-screenshot"/>
+
+## 🧐Project Various Step
+
+### Data Exploration
+I started exploring datasets using pandas, NumPy,matplotlib, pandas profiling and seaborn.
+
+### Model Selection
+Built many Models and out of that i have selected RandomForest Regressor.
+
+### Hyperparameter Optimization
+Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
+
+### Model Dump
+As per selected trained model is dumped to pickled format for app development
+
+### Model Accuracy 
+75.2%
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h2>🛠️ Installation Steps:</h2>
@@ -55,22 +83,7 @@ pip install -r requirements.txt
 python application.py
 ```
 
-## 🧐Project Various Step
 
-### Data Exploration
-I started exploring datasets using pandas, NumPy,matplotlib, pandas profiling and seaborn.
-
-### Model Selection
-Built many Models and out of that i have selected RandomForest Regressor.
-
-### Hyperparameter Optimization
-Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
-
-### Model Dump
-As per selected trained model is dumped to pickled format for app development
-
-### Model Accuracy 
-75.2%
 
 
 <h2>💻 Built with</h2>
