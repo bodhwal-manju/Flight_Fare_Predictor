@@ -30,7 +30,7 @@ Using Randomizedsearch CV and GridSearch CV to select the best parameter for tra
 As per selected trained model is dumped to pickled format for app development
 
 ### Model Accuracy 
-75.2%
+75.4%
 
 
 
