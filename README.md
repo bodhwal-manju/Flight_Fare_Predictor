@@ -1,7 +1,12 @@
-# Flight_Fare_Predictor
+
 <h1 align="center" id="title">Flight Fare Predictor</h1>
 
 <p align="center"><img src="https://socialify.git.ci/bodhwal-manju/Flight_Fare_Predictor/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+This project aims to predict flight prices using machine learning techniques. The goal is to develop a model that can accurately forecast the price of flights based on various features such as departure time, airline, route, and other relevant factors.
+
+<h2>Dataset</h2>
+[https://github.com/bodhwal-manju/Flight_Fare_Predictor/blob/main/Data_Train%20(3).xlsx](https://github.com/bodhwal-manju/Flight_Fare_Predictor/blob/main/Data_Train%20(3).xlsx)
 
 <h2>🚀 Demo</h2>
 
