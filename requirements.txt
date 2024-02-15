@@ -6,3 +6,4 @@ scikit-learn
 flask
 flask_cors
 statsmodels
+openpyxl

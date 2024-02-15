@@ -3,7 +3,9 @@ body {
   /* background: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB); */
   /* background: linear-gradient(135deg, #8254EA 0%, #E86DEC 100%); */
   background: #C2DEDC;
-  background-image: url("./photo_6204229041490345329_x.jpg"),url("./photo_6204229041490345328_x.jpg");
+  background-image: url("./faf4f5ad02d6d68cfeafa44e1b57649a-plane-semi-flat\ 1.png"),url("./image\ 2.png");
+  /* mix-blend-mode: multiply; */
+  display: block;
   background-position: right center,left calc(100% - 50px);
   background-size: auto,250px;
    background-repeat: no-repeat;
