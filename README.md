@@ -106,6 +106,11 @@ Technologies used in the project:
 <h2> LinkedIn Post</h2>
 [https://www.linkedin.com/feed/update/urn:li:activity:7161054375262519296/]
 
+<h2>Deployment using Azure</h2>
+[https://flightfarepredictor.azurewebsites.net/]
+
+
+
 
 <h2>🛡️ License:</h2>
 
